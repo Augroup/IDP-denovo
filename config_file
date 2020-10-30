@@ -1,0 +1,9 @@
+scaffold=/Users/shuhfu/app1/idpdenovo_test/idpdenovo-v.1/test_data/scaffold_for_test
+lr=/Users/shuhfu/app1/idpdenovo_test/idpdenovo-v.1/test_data/lr_for_test
+leftSr=/Users/shuhfu/app1/idpdenovo_test/idpdenovo-v.1/test_data/sr_1.fa
+rightSr=/Users/shuhfu/app1/idpdenovo_test/idpdenovo-v.1/test_data/sr_2.fa
+kmer=15
+kCutoff=0.05
+nThreads=24
+
+

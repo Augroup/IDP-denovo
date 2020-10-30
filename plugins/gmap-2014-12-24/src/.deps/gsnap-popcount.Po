@@ -1,0 +1,3 @@
+gsnap-popcount.o: popcount.c config.h
+
+config.h:

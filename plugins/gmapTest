@@ -1,0 +1,14 @@
+
+GMAP: Genomic Mapping and Alignment Program
+Part of GMAP package, version 2014-12-24
+Build target: x86_64-unknown-linux-gnu
+Features: pthreads enabled, alloca available, zlib available, mmap available, littleendian, sigaction available, 64 bits available
+Popcnt: mm_popcnt builtin_popcount
+Builtin functions: builtin_clz builtin_ctz builtin_popcount
+SIMD functions: MMX SSE SSE2 SSE3 SSSE3 SSE4.1 SSE4.2 AVX
+Sizes: off_t (8), size_t (8), unsigned int (4), long int (8), long long int (8)
+Default gmap directory (compiled): /Shared/Au/shuhfu/idpdenovo_test/idpdenovo-v.1/plugins/gmap-2014-12-24/../BIN/share
+Default gmap directory (environment): /Shared/Au/shuhfu/idpdenovo_test/idpdenovo-v.1/plugins/gmap-2014-12-24/../BIN/share
+Thomas D. Wu, Genentech, Inc.
+Contact: twu@gene.com
+

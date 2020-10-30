@@ -1,0 +1,185 @@
+uniqscanl-indexdb.o: indexdb.c config.h \
+ /opt/gcc/4.9.3/lib/gcc/x86_64-unknown-linux-gnu/4.9.3/include/emmintrin.h \
+ /opt/gcc/4.9.3/lib/gcc/x86_64-unknown-linux-gnu/4.9.3/include/xmmintrin.h \
+ /opt/gcc/4.9.3/lib/gcc/x86_64-unknown-linux-gnu/4.9.3/include/mmintrin.h \
+ /opt/gcc/4.9.3/lib/gcc/x86_64-unknown-linux-gnu/4.9.3/include/mm_malloc.h \
+ /usr/include/stdlib.h /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-64.h \
+ /opt/gcc/4.9.3/lib/gcc/x86_64-unknown-linux-gnu/4.9.3/include/stddef.h \
+ /usr/include/bits/waitflags.h /usr/include/bits/waitstatus.h \
+ /usr/include/endian.h /usr/include/bits/endian.h \
+ /usr/include/bits/byteswap.h /usr/include/sys/types.h \
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+ /usr/include/time.h /usr/include/sys/select.h /usr/include/bits/select.h \
+ /usr/include/bits/sigset.h /usr/include/bits/time.h \
+ /usr/include/sys/sysmacros.h /usr/include/bits/pthreadtypes.h \
+ /usr/include/alloca.h indexdb.h /usr/include/stdio.h \
+ /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
+ /opt/gcc/4.9.3/lib/gcc/x86_64-unknown-linux-gnu/4.9.3/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ /usr/include/bits/stdio.h access.h /usr/include/unistd.h \
+ /usr/include/bits/posix_opt.h /usr/include/bits/environments.h \
+ /usr/include/bits/confname.h getopt.h bool.h types.h uint8list.h mode.h \
+ genomicpos.h iitdef.h /usr/include/pthread.h /usr/include/sched.h \
+ /usr/include/bits/sched.h /usr/include/xlocale.h \
+ /usr/include/bits/setjmp.h interval.h indexdbdef.h littleendian.h \
+ /usr/include/string.h /usr/include/bits/string.h \
+ /usr/include/bits/string2.h /usr/include/ctype.h /usr/include/sys/mman.h \
+ /usr/include/bits/mman.h /usr/include/dirent.h \
+ /usr/include/bits/dirent.h /usr/include/bits/posix1_lim.h \
+ /usr/include/bits/local_lim.h /usr/include/linux/limits.h mem.h except.h \
+ /usr/include/setjmp.h fopen.h compress.h complement.h bitpack64-read.h \
+ bitpack64-readtwo.h
+
+config.h:
+
+/opt/gcc/4.9.3/lib/gcc/x86_64-unknown-linux-gnu/4.9.3/include/emmintrin.h:
+
+/opt/gcc/4.9.3/lib/gcc/x86_64-unknown-linux-gnu/4.9.3/include/xmmintrin.h:
+
+/opt/gcc/4.9.3/lib/gcc/x86_64-unknown-linux-gnu/4.9.3/include/mmintrin.h:
+
+/opt/gcc/4.9.3/lib/gcc/x86_64-unknown-linux-gnu/4.9.3/include/mm_malloc.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/opt/gcc/4.9.3/lib/gcc/x86_64-unknown-linux-gnu/4.9.3/include/stddef.h:
+
+/usr/include/bits/waitflags.h:
+
+/usr/include/bits/waitstatus.h:
+
+/usr/include/endian.h:
+
+/usr/include/bits/endian.h:
+
+/usr/include/bits/byteswap.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/bits/types.h:
+
+/usr/include/bits/typesizes.h:
+
+/usr/include/time.h:
+
+/usr/include/sys/select.h:
+
+/usr/include/bits/select.h:
+
+/usr/include/bits/sigset.h:
+
+/usr/include/bits/time.h:
+
+/usr/include/sys/sysmacros.h:
+
+/usr/include/bits/pthreadtypes.h:
+
+/usr/include/alloca.h:
+
+indexdb.h:
+
+/usr/include/stdio.h:
+
+/usr/include/libio.h:
+
+/usr/include/_G_config.h:
+
+/usr/include/wchar.h:
+
+/opt/gcc/4.9.3/lib/gcc/x86_64-unknown-linux-gnu/4.9.3/include/stdarg.h:
+
+/usr/include/bits/stdio_lim.h:
+
+/usr/include/bits/sys_errlist.h:
+
+/usr/include/bits/stdio.h:
+
+access.h:
+
+/usr/include/unistd.h:
+
+/usr/include/bits/posix_opt.h:
+
+/usr/include/bits/environments.h:
+
+/usr/include/bits/confname.h:
+
+getopt.h:
+
+bool.h:
+
+types.h:
+
+uint8list.h:
+
+mode.h:
+
+genomicpos.h:
+
+iitdef.h:
+
+/usr/include/pthread.h:
+
+/usr/include/sched.h:
+
+/usr/include/bits/sched.h:
+
+/usr/include/xlocale.h:
+
+/usr/include/bits/setjmp.h:
+
+interval.h:
+
+indexdbdef.h:
+
+littleendian.h:
+
+/usr/include/string.h:
+
+/usr/include/bits/string.h:
+
+/usr/include/bits/string2.h:
+
+/usr/include/ctype.h:
+
+/usr/include/sys/mman.h:
+
+/usr/include/bits/mman.h:
+
+/usr/include/dirent.h:
+
+/usr/include/bits/dirent.h:
+
+/usr/include/bits/posix1_lim.h:
+
+/usr/include/bits/local_lim.h:
+
+/usr/include/linux/limits.h:
+
+mem.h:
+
+except.h:
+
+/usr/include/setjmp.h:
+
+fopen.h:
+
+compress.h:
+
+complement.h:
+
+bitpack64-read.h:
+
+bitpack64-readtwo.h:

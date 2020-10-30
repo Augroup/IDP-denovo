@@ -1,0 +1,191 @@
+gmapindex-sarray-write.o: sarray-write.c config.h sarray-write.h types.h \
+ uint8list.h bool.h genome.h access.h /usr/include/unistd.h \
+ /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-64.h /usr/include/bits/posix_opt.h \
+ /usr/include/bits/environments.h /usr/include/bits/types.h \
+ /usr/include/bits/typesizes.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h \
+ /usr/include/bits/confname.h getopt.h /usr/include/sys/types.h \
+ /usr/include/time.h /usr/include/endian.h /usr/include/bits/endian.h \
+ /usr/include/bits/byteswap.h /usr/include/sys/select.h \
+ /usr/include/bits/select.h /usr/include/bits/sigset.h \
+ /usr/include/bits/time.h /usr/include/sys/sysmacros.h \
+ /usr/include/bits/pthreadtypes.h genomicpos.h /usr/include/stdlib.h \
+ /usr/include/bits/waitflags.h /usr/include/bits/waitstatus.h \
+ /usr/include/alloca.h uintlist.h sequence.h /usr/include/stdio.h \
+ /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ /usr/include/bits/stdio.h /usr/include/zlib.h /usr/include/zconf.h \
+ bzip2.h iit-read-univ.h list.h univinterval.h iit-read.h interval.h \
+ iitdef.h /usr/include/pthread.h /usr/include/sched.h \
+ /usr/include/bits/sched.h /usr/include/xlocale.h \
+ /usr/include/bits/setjmp.h chrnum.h mode.h /usr/include/string.h \
+ /usr/include/bits/string.h /usr/include/bits/string2.h \
+ /usr/include/sys/mman.h /usr/include/bits/mman.h mem.h except.h \
+ /usr/include/setjmp.h assert.h compress.h bitpack64-write.h \
+ bitpack64-read.h bitpack64-access.h bytecoding.h fopen.h saca-k.h \
+ genome128_hr.h intlist.h littleendian.h
+
+config.h:
+
+sarray-write.h:
+
+types.h:
+
+uint8list.h:
+
+bool.h:
+
+genome.h:
+
+access.h:
+
+/usr/include/unistd.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/usr/include/bits/posix_opt.h:
+
+/usr/include/bits/environments.h:
+
+/usr/include/bits/types.h:
+
+/usr/include/bits/typesizes.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stddef.h:
+
+/usr/include/bits/confname.h:
+
+getopt.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/time.h:
+
+/usr/include/endian.h:
+
+/usr/include/bits/endian.h:
+
+/usr/include/bits/byteswap.h:
+
+/usr/include/sys/select.h:
+
+/usr/include/bits/select.h:
+
+/usr/include/bits/sigset.h:
+
+/usr/include/bits/time.h:
+
+/usr/include/sys/sysmacros.h:
+
+/usr/include/bits/pthreadtypes.h:
+
+genomicpos.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/bits/waitflags.h:
+
+/usr/include/bits/waitstatus.h:
+
+/usr/include/alloca.h:
+
+uintlist.h:
+
+sequence.h:
+
+/usr/include/stdio.h:
+
+/usr/include/libio.h:
+
+/usr/include/_G_config.h:
+
+/usr/include/wchar.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.4.7/include/stdarg.h:
+
+/usr/include/bits/stdio_lim.h:
+
+/usr/include/bits/sys_errlist.h:
+
+/usr/include/bits/stdio.h:
+
+/usr/include/zlib.h:
+
+/usr/include/zconf.h:
+
+bzip2.h:
+
+iit-read-univ.h:
+
+list.h:
+
+univinterval.h:
+
+iit-read.h:
+
+interval.h:
+
+iitdef.h:
+
+/usr/include/pthread.h:
+
+/usr/include/sched.h:
+
+/usr/include/bits/sched.h:
+
+/usr/include/xlocale.h:
+
+/usr/include/bits/setjmp.h:
+
+chrnum.h:
+
+mode.h:
+
+/usr/include/string.h:
+
+/usr/include/bits/string.h:
+
+/usr/include/bits/string2.h:
+
+/usr/include/sys/mman.h:
+
+/usr/include/bits/mman.h:
+
+mem.h:
+
+except.h:
+
+/usr/include/setjmp.h:
+
+assert.h:
+
+compress.h:
+
+bitpack64-write.h:
+
+bitpack64-read.h:
+
+bitpack64-access.h:
+
+bytecoding.h:
+
+fopen.h:
+
+saca-k.h:
+
+genome128_hr.h:
+
+intlist.h:
+
+littleendian.h:
