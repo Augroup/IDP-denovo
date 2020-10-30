@@ -1,4 +1,4 @@
-# IDP-denovo
+# IDP-denovo: a tool for de novo transcriptome assembly and isoform annotation by hybrid sequencing.
 **For the detailed manual, please check ``manual.pdf`` \
 Due to the limit of Github, please download the testing data from https://1drv.ms/u/s!AosaKQU26Piaav1glSWQrI8uhV8?e=MSR39I, and put them under ``test_data``**.
 ## Install IDP-denovo
