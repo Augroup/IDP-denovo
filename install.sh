@@ -8,7 +8,7 @@ echo $PWD
 cd plugins/gmap-2014-12-24/
 echo Configuring and compiling gmap installation in:
 echo $PWD
-./configure --prefix=$PWD/../BIN
+sh ./configure --prefix=$PWD/../BIN
 make
 make check
 make install
